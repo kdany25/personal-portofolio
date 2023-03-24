@@ -15,12 +15,12 @@ const Profile = () => {
 						<a href="#">
 							<i className="fa fa-instagram"></i>
 						</a>
-						<a href="#">
+						{/* <a href="#">
 							<i className="fa fa-youtube-square"></i>
 						</a>
 						<a href="#">
 							<i className="fa fa-twitter"></i>
-						</a>
+						</a> */}
 					</div>
 				</div>
 			</div>
