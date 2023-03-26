@@ -15,6 +15,26 @@ const Profile = () => {
 						<a href="#">
 							<i className="fa fa-instagram"></i>
 						</a>
+						<a href="#">
+							<i className="fa fa-youtube-square"></i>
+						</a>
+						<a href="#">
+							<i className="fa fa-twitter"></i>
+						</a>
+					</div>
+					<div className="profile-details-name">
+						<span className="primary-text">
+							Hello, I'M{" "}
+							<span className="highlighted-text">Kabalisa</span>
+						</span>
+					</div>
+
+					<div className="profile-details-role">
+						<span className="primary-text">
+							
+
+						</span>
+
 					</div>
 				</div>
 			</div>
